@@ -1,0 +1,3 @@
+#Define deployment using the image pushed to Docker Hub.
+#Use containerPort 8080
+apiVersion: apps/v1

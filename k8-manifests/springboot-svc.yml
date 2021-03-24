@@ -1,0 +1,4 @@
+#Define Service of type ClusterIP
+apiVersion: v1
+
+
